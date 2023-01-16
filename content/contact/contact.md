@@ -25,7 +25,7 @@ content:
   #   country: United States
   #   country_code: US
   coordinates:
-    latitude: '37.46°  
+    latitude: '37.46'  
     longitude: '126.95'
   directions: 301 Building, Room 412
   # office_hours:
