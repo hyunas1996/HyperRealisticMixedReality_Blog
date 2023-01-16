@@ -1,14 +1,29 @@
 ---
 weight: 20
-title: 초실감형 혼합현실 센터
+title: 
 date: 2022-09-24
 toc: false
-
-image:
-  filename: welcome.jpg
 ---
 
-Welcome to the _Second Brain_ template!
+### 초실감형 혼합현실이란
+
+기존의 가상 세계를 중점적으로 이루어지는 게임, 아바타 중심의 응용에서 벗어나 
+
+**사용자의 현실에 스며들고** **지각 능력의 한계를 넘을 수 있는** 도움을 주는 기술입니다
+
+
+
+### 초실감형 혼합현실 플랫폼의 구현은
+
+**응용** **-** **소프트웨어** **-** **하드웨어**를 넘나드는 **전반적인 이해**를 요구합니다
+
+따라서 각 분야의 전문가들의 유기적인 협력만이 구현을 실제화할 수 있습니다
+
+<img src="../../assets/media/collaboration.png" alt="collaboration" style="zoom:75%;" />
+
+
+
+<!-- 초실감형 혼합현실 센터
 
 The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
 
@@ -38,4 +53,4 @@ To create a **private second brain** either:
 
 ## Example notebook
 
-{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}} -->
