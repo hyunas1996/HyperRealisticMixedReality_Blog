@@ -9,8 +9,8 @@ toc: false
 #     color: '#01011C'
 #     text_color_light: false
 ---
-
-<center>## 초실감형 혼합현실이란</center>
+<div align="center">
+## 초실감형 혼합현실이란
 
 <br/>
 
@@ -72,6 +72,7 @@ toc: false
 
 <br/>
 
+</div>
 
 <!-- 초실감형 혼합현실 센터
 
