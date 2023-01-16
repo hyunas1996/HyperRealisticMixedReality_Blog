@@ -30,7 +30,7 @@ toc: false
 
 따라서 각 분야의 전문가들의 유기적인 협력만이 구현을 실제화할 수 있습니다
 
-<img src="implementation.png" alt="Implementation" style="width:00px;"/>
+<img src="implementation.png" alt="Implementation" style="width:400px;"/>
 <!-- ![Implementation](/implementation.png) -->
 
 <br/>
@@ -53,7 +53,7 @@ toc: false
 <br/>
 
 서울대학교 내 관련 기반 기술을 가진 **11인의 연구진의 역량**을 집중시킵니다
-<img src="collaboration.png" alt="Collaboration" style="width:400px;"/>
+<img src="collaboration.png" alt="Collaboration" style="width:700px;"/>
 <!-- ![Collaboration](/collaboration.png) -->
 
 <br/>
