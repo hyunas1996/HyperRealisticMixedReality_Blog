@@ -4,18 +4,20 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - KimYoungMin
-title: 김영민 교수
-role: '#3D Vision'
+  - LeeKyogu
+title: 이교구 교수
+role: '#Audio/Music Signal Processing'
 interests:
-  - 3D Vision
+  - Audio/Music Signal Processing
+  - Music Information Retrieval 
+  - Machine Learning for Audio/Music Applications
 social:
   - icon: envelope
     icon_pack: fas
-    link: youngmin.kim@snu.ac.kr
+    link: kglee@snu.ac.kr
   - icon: home
     icon_pack: fas
-    link: http://3d.snu.ac.kr/
+    link: https://marg.snu.ac.kr
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence

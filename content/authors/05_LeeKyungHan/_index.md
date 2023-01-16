@@ -4,18 +4,20 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - KimYoungMin
-title: 김영민 교수
-role: '#3D Vision'
+  - 05LeeKyungHan
+title: 이경한 교수
+role: '#Network System'
 interests:
-  - 3D Vision
+  - Network System
+  - Mobile Computing
+  - Machine/Reinforcement Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: youngmin.kim@snu.ac.kr
+    link: kyunghanlee@snu.ac.kr
   - icon: home
     icon_pack: fas
-    link: http://3d.snu.ac.kr/
+    link: https://nxc.snu.ac.kr
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence
