@@ -9,4 +9,4 @@ design:
   columns: "1"
 ---
 
-{{% cta cta_link="./people/" cta_text="연구 그룹을 만나보세요! →" %}}
+{{% cta cta_link="./people/" cta_text="연구 그룹을 만나보세요 →" %}}
