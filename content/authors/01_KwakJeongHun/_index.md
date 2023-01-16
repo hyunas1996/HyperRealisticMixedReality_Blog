@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - KwakJeongHun
+  - 01KwakJeongHun
 title: 곽정훈 교수
 role: '#Quantum dot display'
 interests:

@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - KimYoungMin
+  - 02KimYoungMin
 title: 김영민 교수
 role: '#3D Vision'
 interests:

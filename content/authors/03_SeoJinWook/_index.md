@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - SeoJinWook
+  - 03SeoJinWook
 title: 서진욱 교수
 role: '#Human Computer Interaction'
 interests:
