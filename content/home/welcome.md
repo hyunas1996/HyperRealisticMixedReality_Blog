@@ -3,7 +3,7 @@ widget: hero
 widget_id: HomeTitle
 headless: true
 weight: 10
-title: Hyper Realistic Mixed Reality Center X SNU
+title: *Hyper Realistic Mixed Reality Center* X *SNU*
 hero_media: welcome.jpg
 design:
   columns: "1"
@@ -13,7 +13,7 @@ design:
     # color: '#01011C'
     text_color_light: false
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['200px', '100px', '200px', '0']
 ---
 <br>
 
