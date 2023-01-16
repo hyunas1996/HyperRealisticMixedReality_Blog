@@ -54,4 +54,5 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+서울대학교 초실감형 혼합현실 플랫폼 센터에 관심 가져주셔서 감사합니다. 
+궁금하신 점을 아래에 남겨 주시면, 이메일을 통해 답변드리겠습니다. 
