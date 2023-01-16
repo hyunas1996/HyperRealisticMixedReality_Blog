@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    color: '#666'
+    color: '#01011C'
     text_color_light: true
 ---
 <br>
