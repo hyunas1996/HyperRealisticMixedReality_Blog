@@ -14,6 +14,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: youngki.lee@snu.ac.kr
+  - icon: site
+    icon_pack: fas
+    link: https://hcs.snu.ac.kr/people/
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence
