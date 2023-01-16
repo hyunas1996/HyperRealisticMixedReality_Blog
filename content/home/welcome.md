@@ -3,7 +3,7 @@ widget: hero
 widget_id: HomeTitle
 headless: true
 weight: 10
-title: *Hyper Realistic Mixed Reality Center* X *SNU*
+title: '*Hyper Realistic Mixed Reality Center* X *SNU*'
 hero_media: welcome.jpg
 design:
   columns: "1"
