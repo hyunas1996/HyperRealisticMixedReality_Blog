@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 초실감형 혼합현실 센터는 서울대학교 11개 연구 그룹의 협력 허브입니다
+title: 초실감형 혼합현실 센터는 <br> 서울대학교 11개 연구 그룹의 협력 허브입니다
 subtitle:
 
 content:
