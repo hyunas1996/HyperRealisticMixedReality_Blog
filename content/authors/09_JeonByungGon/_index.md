@@ -4,18 +4,19 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - KimYoungMin
-title: 김영민 교수
-role: '#3D Vision'
+  - 09Jeo
+title: 전병곤 교수
+role: '#AI Software Platform'
 interests:
-  - 3D Vision
+  - Artificial Intelligence Platform and Algorithm
+  - Data Processing Platform
 social:
   - icon: envelope
     icon_pack: fas
-    link: youngmin.kim@snu.ac.kr
+    link: bgchun@snu.ac.kr
   - icon: home
     icon_pack: fas
-    link: http://3d.snu.ac.kr/
+    link: http://spl.snu.ac.kr
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence

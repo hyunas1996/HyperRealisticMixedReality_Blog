@@ -4,18 +4,19 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - KimYoungMin
-title: 김영민 교수
-role: '#3D Vision'
+  - 08LeeJoonHwan
+title: 이준환 교수
+role: '#Human Computer Interaction'
 interests:
-  - 3D Vision
+  - Human Computer Interaction
+  - Social Computing
 social:
   - icon: envelope
     icon_pack: fas
-    link: youngmin.kim@snu.ac.kr
+    link: joonhwan@snu.ac.kr
   - icon: home
     icon_pack: fas
-    link: http://3d.snu.ac.kr/
+    link: https://hcid.snu.ac.kr/
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence

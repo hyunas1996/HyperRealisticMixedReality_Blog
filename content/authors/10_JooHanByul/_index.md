@@ -4,18 +4,20 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - KimYoungMin
-title: 김영민 교수
+  - 10JooHanByul
+title: 주한별 교수
 role: '#3D Vision'
 interests:
   - 3D Vision
+  - Human digitalization
+  - Human motion understanding
 social:
   - icon: envelope
     icon_pack: fas
-    link: youngmin.kim@snu.ac.kr
+    link: hbjoo@snu.ac.kr
   - icon: home
     icon_pack: fas
-    link: http://3d.snu.ac.kr/
+    link: https://jhugestar.github.io/
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence
