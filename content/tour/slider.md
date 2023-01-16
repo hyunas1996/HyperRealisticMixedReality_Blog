@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: MixedReality01.jpeg
+        media: MixedReality01.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
