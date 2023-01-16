@@ -15,22 +15,22 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+  email: hyuna.seo@hcs.snu.ac.kr
+  phone: (02) 880-4165
+  # address:
+  #   street: 450 Serra Mall
+  #   city: Stanford
+  #   region: CA
+  #   postcode: '94305'
+  #   country: United States
+  #   country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    latitude: '37.46°  
+    longitude: '126.95'
+  directions: 301 Building, Room 412
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
