@@ -5,12 +5,6 @@ event: 초실감형 혼합현실 센터 Kick-Off 워크샵
 # event_url: https://example.org
 
 location: 서울대학교 교수회관
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
 
 summary: 
 abstract: '초실감형 혼합현실 센터의 시작을 축하하고, 센터의 비전을 공유하는 킥오프 미팅을 마련하였습니다. 
