@@ -2,7 +2,7 @@
 authors:
   - 00LeeYoungKi
 title: 이영기 교수
-role: "초실감형 혼합현실 센터장"
+role: "초실감형 혼합현실 센터장 #Mobile Computing"
 avatar_filename: avatar.jpg
 bio: "초실감형 혼합현실 센터장 #Mobile Computing"
 interests: []
