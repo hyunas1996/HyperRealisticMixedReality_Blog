@@ -10,7 +10,7 @@ toc: false
 #     text_color_light: false
 ---
 
-## 초실감형 혼합현실이란
+<center>## 초실감형 혼합현실이란</center>
 
 <br/>
 
