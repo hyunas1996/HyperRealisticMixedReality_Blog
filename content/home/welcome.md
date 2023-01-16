@@ -12,6 +12,8 @@ design:
   background:
     # color: '#01011C'
     text_color_light: false
+  spacing:
+    padding: ['20px', '0', '20px', '0']
 ---
 <br>
 
