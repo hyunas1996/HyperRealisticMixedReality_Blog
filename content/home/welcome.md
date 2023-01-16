@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+서울대학교 Hyper Realistic Mixed Reality Center에 오신 것을 환영합니다. 
