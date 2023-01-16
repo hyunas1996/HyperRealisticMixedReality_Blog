@@ -22,5 +22,5 @@ email: ""
 superuser: true
 user_groups:
   - Professors
-highlight_name: false
+highlight_name: true
 ---
