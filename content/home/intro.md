@@ -1,12 +1,11 @@
 ---
 weight: 20
-title: ✍️ Second Brain
+title: 초실감형 혼합현실 센터
 date: 2022-09-24
 toc: false
 
 image:
   filename: welcome.jpg
-  caption: NASA
 ---
 
 Welcome to the _Second Brain_ template!
