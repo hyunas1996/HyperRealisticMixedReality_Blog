@@ -46,7 +46,8 @@ toc: false
 ## 서울대학교 초실감형 혼합현실 센터의 구성
 
 서울대학교 내 관련 기반 기술을 가진 **11인의 연구진의 역량**을 집중시킵니다
-![Collaboration](/collaboration.png)
+<img src="collaboration.png" alt="Collaboration" style="width:500px;"/>
+<!-- ![Collaboration](/collaboration.png) -->
 
 <br/>
 ------
