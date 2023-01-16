@@ -21,6 +21,7 @@ toc: false
 <br/>
 ------
 
+
 ## 초실감형 혼합현실 플랫폼의 구현은
 
 <br/>
@@ -29,11 +30,12 @@ toc: false
 
 따라서 각 분야의 전문가들의 유기적인 협력만이 구현을 실제화할 수 있습니다
 
-<img src="implementation.png" alt="Implementation" style="width:500px;"/>
+<img src="implementation.png" alt="Implementation" style="width:00px;"/>
 <!-- ![Implementation](/implementation.png) -->
 
 <br/>
 ------
+
 
 ## 서울대학교 초실감형 혼합현실 센터의 목표
 
@@ -43,14 +45,16 @@ toc: false
 <br/>
 ------
 
+
 ## 서울대학교 초실감형 혼합현실 센터의 구성
 
 서울대학교 내 관련 기반 기술을 가진 **11인의 연구진의 역량**을 집중시킵니다
-<img src="collaboration.png" alt="Collaboration" style="width:500px;"/>
+<img src="collaboration.png" alt="Collaboration" style="width:400px;"/>
 <!-- ![Collaboration](/collaboration.png) -->
 
 <br/>
 ------
+
 
 ## 연구내용
 ![Research](/research.png)
