@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Research Teams!
+title: 소속 연구 그룹
 subtitle:
 
 content:
