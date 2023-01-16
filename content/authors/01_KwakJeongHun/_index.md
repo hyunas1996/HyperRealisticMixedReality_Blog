@@ -6,9 +6,11 @@ superuser: false
 authors:
   - KwakJeongHun
 title: 곽정훈 교수
-role: Associate Professor of Dept. of Electrical and Computer Engineering
+role: '#Quantum dot display'
 interests:
-  - Display
+  - Quantum dot display
+  - Organic Semiconductor Devices
+  - Device Physics
 social:
   - icon: envelope
     icon_pack: fas
