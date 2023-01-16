@@ -7,9 +7,9 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
-title: Our Research Groups!
+title: 초실감형 혼합현실 센터는 서울대학교 11개 연구 그룹의 협력 허브입니다
 subtitle:
 
 content:
@@ -18,7 +18,7 @@ content:
   user_groups:
     - Professors
 design:
-  show_interests: true
-  show_role: false
+  show_interests: false
+  show_role: true
   show_social: false
 ---
