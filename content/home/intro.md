@@ -19,7 +19,7 @@ toc: false
 **사용자의 현실에 스며들고** **지각 능력의 한계를 넘을 수 있는** 도움을 주는 기술입니다
 
 <br/>
-------
+---
 
 
 ## 초실감형 혼합현실 플랫폼의 구현은
@@ -34,7 +34,7 @@ toc: false
 <!-- ![Implementation](/implementation.png) -->
 
 <br/>
-------
+---
 
 
 ## 서울대학교 초실감형 혼합현실 센터의 목표
@@ -45,7 +45,7 @@ toc: false
 * 다양한 핵심 기술들을 하나의 플랫폼으로 통합하여**세계적 수준의 미래** **혼합현실** **기술의** **청사진 제시를 목표**로합니다
 
 <br/>
-------
+---
 
 
 ## 서울대학교 초실감형 혼합현실 센터의 구성
@@ -53,20 +53,22 @@ toc: false
 <br/>
 
 서울대학교 내 관련 기반 기술을 가진 **11인의 연구진의 역량**을 집중시킵니다
+<br/>
 <img src="collaboration.png" alt="Collaboration" style="width:700px;"/>
 <!-- ![Collaboration](/collaboration.png) -->
 
 <br/>
-------
+---
 
 
 ## 연구내용
 
 <br/>
+<img src="research.png" alt="Research" style="width:1000px;"/>
+<!-- ![Research](/research.png) -->
 
-![Research](/research.png)
-
-
+<br/>
+---
 
 
 <!-- 초실감형 혼합현실 센터
