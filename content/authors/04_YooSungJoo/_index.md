@@ -4,18 +4,20 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - KimYoungMin
-title: 김영민 교수
-role: '#3D Vision'
+  - 04YooSungJoo
+title: 유승주 교수
+role: '#Deep Learning Optimization'
 interests:
-  - 3D Vision
+  - Deep learning algorithm optimization
+  - Deep learning software optimization
+  - Deep learning hordware accelerator
 social:
   - icon: envelope
     icon_pack: fas
-    link: youngmin.kim@snu.ac.kr
+    link: yeonbin@snu.ac.kr
   - icon: home
     icon_pack: fas
-    link: http://3d.snu.ac.kr/
+    link: http://cmalab.snu.ac.kr/
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence
