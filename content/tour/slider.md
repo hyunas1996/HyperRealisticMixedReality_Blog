@@ -21,7 +21,7 @@ content:
       background:
         position: right
         color: '#666'
-        brightness: 0.7
+        brightness: 0.4
         media: MixedReality1.jpg
     - title: Hyper Realistic Mixed Reality Center X 서울대학교
       content: 단순한 아바타 및 게임 응용에서 벗어나, 사용자 현실에 스며드는 초실감형 혼합현실을 개발한다
@@ -29,7 +29,7 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.4
         media: MixedReality2.jpg
     - title: Hyper Realistic Mixed Reality Center X 서울대학교
       content: 서울대학교 11개 연구진의 역량이 집중된 연구 협력 허브
@@ -37,7 +37,7 @@ content:
       background:
         position: center
         color: '#333'
-        brightness: 0.5
+        brightness: 0.4
         media: MixedReality3.jpg
       link:
         icon: people-group
