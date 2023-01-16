@@ -69,7 +69,7 @@ toc: false
 ## 연구내용
 
 <br/>
-<img src="research.png" alt="Research" style="width:1200px;"/>
+<img src="research.png" alt="Research" style="width:1400px;"/>
 <!-- ![Research](/research.png) -->
 
 <br/>
