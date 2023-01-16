@@ -24,7 +24,7 @@ toc: false
 따라서 각 분야의 전문가들의 유기적인 협력만이 구현을 실제화할 수 있습니다
 
 ```md
-![Collaboration](../../assets/media/collaboration.png)
+![Collaboration](/collaboration.png)
 ```
 
 
