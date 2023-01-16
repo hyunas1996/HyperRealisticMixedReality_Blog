@@ -13,7 +13,7 @@ design:
     # color: '#01011C'
     text_color_light: false
   spacing:
-    padding: ['200px', '100px', '200px', '0']
+    padding: ['150px', '0', '200px', '0']
 ---
 <br>
 
