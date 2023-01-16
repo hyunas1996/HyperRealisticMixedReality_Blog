@@ -1,14 +1,23 @@
 ---
-title: My page
-type: landing
+widget: hero
+widget_id: HomeTitle
+headless: true
+weight: 10
+title: '**Hyper Realistic Mixed Reality Center** X **SNU**'
+hero_media: welcome.jpg
+design:
+  columns: "1"
+  css_style: null
+  css_class: null
+  background:
+    # color: '#01011C'
+    text_color_light: false
+  spacing:
+    padding: ['150px', '0', '200px', '0']
+---
+<br>
 
-sections:
-  - block: markdown
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+*서울대학교 Hyper Realistic Mixed Reality Center*는
+사용자의 현실에 스며들고
+지각 능력의 한계를 뛰어넘는
+혼합현실 플랫폼의 비전과 연구 방향을 제시합니다.
