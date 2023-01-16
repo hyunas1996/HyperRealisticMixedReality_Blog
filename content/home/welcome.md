@@ -10,6 +10,17 @@ design:
   css_style: null
   css_class: null
 ---
+```markdown
+**서울대학교 Hyper Realistic Mixed Reality Center에 오신 것을 환영합니다.** 
+
+초실감형 혼합현실 연구 센터는 
+
+<span style="color:#6D2A8B">사용자의 현실에 스며들고</span>
+<span style="color:#215F85">지각 능력의 한계를 뛰어넘는</span>
+혼합현실 플랫폼의 비전과 연구 방향을 제시하는 
+서울대학교 11개 연구 그룹의 연구 협력 허브입니다.
+```
+
 <br>
 
 **서울대학교 Hyper Realistic Mixed Reality Center에 오신 것을 환영합니다.** 
