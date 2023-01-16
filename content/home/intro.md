@@ -57,7 +57,7 @@ toc: false
 
 <br/>
 
-<img src="collaboration.png" alt="Collaboration" style="width:700px;"/>
+<img src="collaboration.png" alt="Collaboration" style="width:600px;"/>
 <!-- ![Collaboration](/collaboration.png) -->
 
 <br/>
