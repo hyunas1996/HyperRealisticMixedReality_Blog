@@ -13,12 +13,12 @@ main:
   - name: Research Groups
     url: people
     weight: 30
-  - name: Events
+  - name: Seminars
     url: event
     weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
+  # - name: Publications
+  #   url: publication
+  #   weight: 50
   - name: Contact
     url: contact
     weight: 60
