@@ -1,24 +1,23 @@
 ---
-title: 초실감형 혼합현실 센터 Kick-Off 워크샵
+title: 초실감형 혼합현실 센터 세미나 시리즈
 
-event: 초실감형 혼합현실 센터 Kick-Off 워크샵
+event: 초실감형 혼합현실 센터 세미나 시리즈
 # event_url: https://example.org
 
-location: 서울대학교 교수회관
+location: 서울대학교 교수회관 및 온라인 동시 진행
 
 summary: 
-abstract: '초실감형 혼합현실 센터의 시작을 축하하고, 센터의 비전을 공유하는 킥오프 미팅을 마련하였습니다. 
-미팅을 통해 센터 소속 연구 그룹의 최신 연구 성과와 동향을 공유할 수 있었습니다. 
-초실감형 혼합현실 플랫폼을 실현 시키기 위해, 각 연구 그룹이 지닌 역량을 파악하고, 추후 연구 협력을 위한 발판을 마련하였습니다.'
+abstract: '이번 세미나를 통해서 초실감형 혼합현실 플랫폼을 연구하고 있는 다양한 분야의 연구 그룹들이 최신 연구를 공유하고 토론하는 장을 마련합니다.
+해당 세미나 시리즈는 2월 1일부터 22일까지 총 4주에 걸쳐 이어집니다. 총 다섯 분의 센터 소속 교수님의 강연과 세 분의 초청 강사의 강연이 예정되어있으니, 많은 관심 부탁드립니다. 강연 일정이 정해지는대로, 추후에 한 번 더 공지드리겠습니다. 관련 문의는 hyuna.seo@hcs.snu.ac.kr로 부탁드립니다.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-08-09T10:00:00Z'
-date_end: '2022-08-09T12:00:00Z'
+date: '2023-02-01T11:00:00Z'
+date_end: '2023-02-22T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-08-09T00:10:00Z'
+publishDate: '2023-01-16T00:00:00Z'
 
 authors: []
 tags: []
