@@ -1,10 +1,12 @@
 ---
+organizations:
+  - name: Seoul National University
+    url: ""
+superuser: false
 authors:
-  - 00LeeYoungKi
+  - 00YoungkiLee
 title: 이영기 교수
-role: "센터장 #Mobile Computing"
-avatar_filename: avatar.jpg
-bio: ""
+role: '#Mobile System'
 interests:
   - Mobile System
   - Life-immersive Mixed Reality
@@ -15,12 +17,18 @@ social:
   - icon: home
     icon_pack: fas
     link: https://hcs.snu.ac.kr/
-organizations:
-  - name: Seoul National University
-    url: ""
+# education:
+#   courses:
+#     - course: PhD in Artificial Intelligence
+#       institution: Stanford University
+#       year: 2012
+#     - course: MEng in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2009
+#     - course: BSc in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2008
 email: ""
-superuser: true
 user_groups:
   - Professors
-highlight_name: true
 ---
