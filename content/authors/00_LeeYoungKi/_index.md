@@ -5,7 +5,9 @@ title: 이영기 교수
 role: "센터장 #Mobile Computing"
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Mobile System
+  - Life-immersive Mixed Reality
 social:
   - icon: envelope
     icon_pack: fas
