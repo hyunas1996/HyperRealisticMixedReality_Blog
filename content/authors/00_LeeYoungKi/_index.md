@@ -18,8 +18,6 @@ social:
 organizations:
   - name: Seoul National University
     url: ""
-education:
-  courses: []
 email: ""
 superuser: true
 user_groups:
