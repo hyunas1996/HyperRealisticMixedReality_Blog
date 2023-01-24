@@ -17,7 +17,7 @@ organizations:
   - name: Seoul National University
     url: ""
 email: ""
-superuser: true
+# superuser: true
 user_groups:
   - Professors
 highlight_name: false
